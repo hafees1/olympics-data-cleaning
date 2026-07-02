@@ -14,9 +14,3 @@ This project cleans an Olympic athletes dataset using Pandas.
 ## Libraries Used
 - Pandas
 - NumPy
-
-## Skills Demonstrated
-- Data Cleaning
-- Regex
-- Datetime handling
-- Feature Engineering
